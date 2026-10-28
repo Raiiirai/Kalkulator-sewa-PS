@@ -34,37 +34,15 @@ javac GameZone.java
 java GameZone
 ```
 
-## Contoh Penggunaan
+## Output
+### Output jika memilih pilihan PS4 dengan minuman
+!(./Screenshot 2026-10-28 160348.png)
 
-```
-Masukkan nama pelanggan: Budi
+### Output jika memilih piilihan PS5 tanpa minuman
+!(./Screenshot 2026-10-28 160436.png)
 
-Pilihan Konsol:
-1. PS4 - Rp8.000/jam
-2. PS5 - Rp12.000/jam
-Pilih konsol (1/2): 2
-Lama bermain (jam): 3
-
-Tambah 1 minuman seharga Rp5.000? (y/n): y
-
-=====================================
-          STRUK GAMEZONE
-=====================================
-Pelanggan       : Budi
-Konsol          : PS5 (Rp12.000/jam)
-Durasi          : 3 jam
--------------------------------------
-Biaya Sewa      : Rp36.000
-Diskon (10%)    : -Rp3.600
-Minuman         : Rp5.000
--------------------------------------
-TOTAL BAYAR     : Rp37.400
-=====================================
-   Terima kasih, selamat bermain!
-=====================================
-
-Transaksi baru? (y/n): n
-```
+### Output jika memilih pilihan PS5 dengan minuman
+!(./Screenshot 2026-10-28 160513.png)
 
 ## Konsep Pemrograman yang Digunakan
 
