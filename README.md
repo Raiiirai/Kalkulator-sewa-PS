@@ -36,14 +36,16 @@ java GameZone
 
 ## Output
 ### Output jika memilih pilihan PS4 dengan minuman
-!(./saya%20skrinsot%20kelakuan%20mu/Screenshot 2026-10-28 160348.png)
 
-### Output jika memilih piilihan PS5 tanpa minuman
-!(./saya%20skrinsot%20kelakuan%20mu/Screenshot 2026-10-28 160436.png)
+![Output PS4 dengan minuman](./saya%20skrinsot%20kelakuan%20mu/Screenshot%202026-10-28%20160348.png)
+
+### Output jika memilih pilihan PS5 tanpa minuman
+
+![Output PS5 tanpa minuman](./saya%20skrinsot%20kelakuan%20mu/Screenshot%202026-10-28%20160436.png)
 
 ### Output jika memilih pilihan PS5 dengan minuman
-!(./saya%20skrinsot%20kelakuan%20mu/Screenshot 2026-10-28 160513.png)
 
+![Output PS5 dengan minuman](./saya%20skrinsot%20kelakuan%20mu/Screenshot%202026-10-28%20160513.png)
 ## Konsep Pemrograman yang Digunakan
 
 | Konsep | Penerapan |
